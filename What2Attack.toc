@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: What2Attack
+## Notes: What2Attack
+What2Attack.lua
+What2Attack.xml
+What2Attack.def.lua
